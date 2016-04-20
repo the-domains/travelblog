@@ -2,6 +2,7 @@ name: Travelblog
 favicon: null
 layout_spectrum: 0.7803855629172176
 typography_spectrum: 0.35796873713843524
+title: 'Fabians & Nathalies Travelblog '
 cta:
   domain: null
   bucket: null
