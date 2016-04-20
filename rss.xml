@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Fabians & Nathalies Travelblog ]]></title>
+        <description><![CDATA[Fabians & Nathalies Travelblog ]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 20 Apr 2016 06:57:20 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bali, Lombok und Gili Air]]></title>
+            <description><![CDATA[<article><h1>Bali, Lombok und Gili Air</h1><p>Los ging es im Juni 2015 für 3 Wochen von Frankfurt in Richtung Denpasar Airport. Wer auf der Suche nach einer guten Mischung aus Aktion und Erholung ist, dem dient unsere Route vielleicht als Inspiration. Die wichtigsten Stationen der Reise im Überblick: Ubud, Gili Air, Vulkan Rinjani, Mataram und Kuta Lombok. </p></article>]]></description>
+            <link>undefinedbali-lombok-und-gili-air/index.html</link>
+            <guid isPermaLink="false">515d0c86-3fcd-4d1b-8247-f2e6adc8e5b7</guid>
+            <pubDate>Wed, 20 Apr 2016 06:57:20 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
