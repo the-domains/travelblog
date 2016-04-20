@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Fabians & Nathalies Travelblog ]]></title>
         <description><![CDATA[Fabians & Nathalies Travelblog ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/travelblog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Apr 2016 06:57:20 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 20 Apr 2016 17:36:37 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/travelblog/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Bali, Lombok und Gili Air]]></title>
-            <description><![CDATA[<article><h1>Bali, Lombok und Gili Air</h1><p>Los ging es im Juni 2015 für 3 Wochen von Frankfurt in Richtung Denpasar Airport. Wer auf der Suche nach einer guten Mischung aus Aktion und Erholung ist, dem dient unsere Route vielleicht als Inspiration. Die wichtigsten Stationen der Reise im Überblick: Ubud, Gili Air, Vulkan Rinjani, Mataram und Kuta Lombok. </p></article>]]></description>
-            <link>undefinedbali-lombok-und-gili-air/index.html</link>
+            <description><![CDATA[<article><h1>Bali, Lombok und Gili Air</h1><p>Los ging es im Juni 2015 für 3 Wochen von Frankfurt in Richtung Denpasar Airport. Wer auf der Suche nach einer guten Mischung aus Aktion und Erholung ist, dem dient unsere Route vielleicht als Inspiration. Die wichtigsten Stationen der Reise im Überblick: Ubud, Gili Air, Vulkan Rinjani, Mataram und Kuta Lombok. </p></article>]]></description>
+            <link>https://thegrid.ai/travelblog/bali-lombok-und-gili-air/index.html</link>
             <guid isPermaLink="false">515d0c86-3fcd-4d1b-8247-f2e6adc8e5b7</guid>
-            <pubDate>Wed, 20 Apr 2016 06:57:20 GMT</pubDate>
+            <pubDate>Wed, 20 Apr 2016 17:36:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
