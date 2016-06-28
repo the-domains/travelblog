@@ -1,29 +1,41 @@
-name: Travelblog
-favicon: null
-layout_spectrum: 0.81892
-typography_spectrum: 0.35796873713843524
 title: 'Fabians & Nathalies Travelblog '
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.5331339098047465
+  brandStrength: 0.375
+  rhythmicContrast: 0.4736610944382846
   brandColors:
     - '#A690A4'
     - '#B68F9D'
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
-  brandStrength: 0.375
   lightness: 0.7156800355296582
-  saturation: 0.5331339098047465
-  rhythmicContrast: 0.47366109443828464
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: Travelblog
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.3579687371384352
+layout_spectrum: 0.7526882
