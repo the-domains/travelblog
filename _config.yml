@@ -6,36 +6,36 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
-  saturation: 0.5331339098047465
-  brandStrength: 0.375
-  rhythmicContrast: 0.4736610944382846
+  saturation: 0.5331339
+  brandStrength: 0.3924731
+  lightness: 0.7562724
   brandColors:
     - '#A690A4'
     - '#B68F9D'
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
-  lightness: 0.7156800355296582
+  rhythmicContrast: 0.6057348
 cta:
   bucket: null
   version: null
   domain: null
+favicon: null
 analytics:
   twitter: null
   google: null
   facebook: null
 name: Travelblog
-favicon: null
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.3579687371384352
-layout_spectrum: 0.7526882
+layout_spectrum: 0
